@@ -1,1 +1,0 @@
-# Fruit-Quality-detection
